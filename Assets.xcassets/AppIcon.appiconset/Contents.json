@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "grok-image-8b50ba38-dac9-44e3-88c2-542a4cc8da75.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
